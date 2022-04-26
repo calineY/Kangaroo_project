@@ -1,0 +1,10 @@
+.table_container{
+    width: 50%;
+    border-radius: 20px;
+    background-color: white;
+    margin-top:3%;
+}
+
+td{
+    border-top: 1px solid grey; 
+}

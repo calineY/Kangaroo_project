@@ -5,7 +5,7 @@ import Landing from './pages/Landing';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <BrowserRouter> 
         <Routes>
           <Route exact path='/' element={<Landing/>}/>

@@ -1,8 +1,11 @@
 import React from 'react'
+import './styles.css'
 
 function Landing() {
   return (
-    <div>Landing</div>
+    <div className='container'>
+        <div className='title'>Kangaroo surveys</div>
+    </div>
   )
 }
 
